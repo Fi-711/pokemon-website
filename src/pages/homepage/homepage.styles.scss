@@ -1,0 +1,34 @@
+.homepage {
+  height: 100%;
+  #logo {
+    position: absolute;
+    top: 6.5em;
+    margin: 0 auto;
+  }
+
+  .shop {
+    position: absolute;
+    bottom: 200px;
+    margin: 0 auto;
+  }
+
+  @media only screen and (max-width: 900px) {
+    .shop {
+      bottom: 150px;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .shop {
+      bottom: 50px;
+    }
+  }
+
+  .ghost-back {
+    opacity: 0.01;
+  }
+
+  .ghost-front {
+    opacity: 0.02;
+  }
+}

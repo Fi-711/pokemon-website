@@ -1,0 +1,36 @@
+.card-legal {
+  .card-legal-group {
+    display: flex;
+  }
+
+  /* Border radius inspiration from: https://www.w3schools.com/cssref/css3_pr_border-radius.asp*/
+  .format {
+    margin-left: 10px;
+    border-radius: 10px 0px 0px 10px;
+    border-top: 2px solid #084b83;
+    border-bottom: 2px solid #084b83;
+    border-left: 2px solid #084b83;
+    background-color: #084b83;
+    padding: 3px;
+    color: rgb(229, 234, 238);
+  }
+
+  .legal {
+    border-radius: 0px 10px 10px 0px;
+    border-top: 2px solid #ccd1c5;
+    border-bottom: 2px solid #ccd1c5;
+    border-right: 2px solid #ccd1c5;
+    background-color: #ccd1c5;
+    padding: 3px 5px 3px 3px;
+    color: rgb(20, 20, 20);
+  }
+
+  @media screen and (max-width: 500px) {
+    font-size: 0.8em;
+    text-align: center;
+    .card-legal-group {
+      display: flex;
+      justify-content: center;
+    }
+  }
+}

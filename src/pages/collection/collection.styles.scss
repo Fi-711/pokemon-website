@@ -1,0 +1,23 @@
+.collection-page {
+  margin: 0 auto;
+
+  .items {
+    & .collection-item {
+      margin-bottom: 40px;
+
+      button {
+        margin: auto;
+      }
+    }
+  }
+  .logo-img {
+    margin: 3% 0;
+    width: 350px;
+    height: 200px;
+  }
+
+  .logo-image img {
+    width: 100%;
+    margin: 0 auto;
+  }
+}

@@ -1,0 +1,30 @@
+.search-bar {
+  margin-bottom: 2%;
+
+  input,
+  button {
+    border: none;
+    font-size: 1.2em;
+    height: 100%;
+    font-weight: 500;
+  }
+
+  button {
+    cursor: pointer;
+  }
+
+  button:focus {
+    outline: 0;
+  }
+
+  textarea:focus,
+  input:focus {
+    outline: 0;
+  }
+
+  input[type='text'] {
+    padding-top: 7px;
+    height: 31px;
+    line-height: 31px;
+  }
+}

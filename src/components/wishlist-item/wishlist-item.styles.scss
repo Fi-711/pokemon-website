@@ -1,0 +1,23 @@
+.wishlist-item {
+  margin: 0 auto;
+
+  .image-container {
+    img {
+      width: 95%;
+      height: 95%;
+      margin: auto auto;
+      max-width: 300px;
+    }
+
+    img:hover {
+      cursor: pointer;
+    }
+  }
+  .arrow {
+    cursor: pointer;
+  }
+
+  .remove-button {
+    cursor: pointer;
+  }
+}

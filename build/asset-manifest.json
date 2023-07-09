@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c4f5f0c.css",
+    "main.js": "/static/js/main.03b63b2d.js",
+    "static/js/236.2aeae83e.chunk.js": "/static/js/236.2aeae83e.chunk.js",
+    "static/js/703.77337973.chunk.js": "/static/js/703.77337973.chunk.js",
+    "static/js/598.a2e56f2f.chunk.js": "/static/js/598.a2e56f2f.chunk.js",
+    "static/media/barcode.bmp": "/static/media/barcode.e6e3de9cab50df03bc2f.bmp",
+    "static/media/haunter.png": "/static/media/haunter.58ad7402db89dde00c1c.png",
+    "static/media/tcg-logo.svg": "/static/media/tcg-logo.46fc2500d509e38866ccddff110493ff.svg",
+    "static/media/card-back.jpg": "/static/media/card-back.85401a2221bb0cc7b619.jpg",
+    "static/media/pokemon_404.png": "/static/media/pokemon_404.808602bd923af8d8d69c.png",
+    "static/media/psychic-energy.png": "/static/media/psychic-energy.e213321693cc720e83bc.png",
+    "static/media/grass-energy.png": "/static/media/grass-energy.5c547e39876d4c208875.png",
+    "static/media/fire-energy.png": "/static/media/fire-energy.a6d6e2817ac5b4566ac3.png",
+    "static/media/fairy-energy.png": "/static/media/fairy-energy.35033ebc938130c4ec46.png",
+    "static/media/lightning-energy.png": "/static/media/lightning-energy.d760588f8b5883f5b4e6.png",
+    "static/media/dragon-energy.png": "/static/media/dragon-energy.7e1db6149d02767ba5aa.png",
+    "static/media/colorless-energy.png": "/static/media/colorless-energy.f508239502c8c9da8bf9.png",
+    "static/media/water-energy.png": "/static/media/water-energy.a6d76a486c49c3e3f140.png",
+    "static/media/metal-energy.png": "/static/media/metal-energy.d2f99348a0ba7ec22d68.png",
+    "static/media/fighting-energy.png": "/static/media/fighting-energy.d9e602511d1c500a9e9b.png",
+    "static/media/pokeball.svg": "/static/media/pokeball.47d929d1343bc3c2f21e9af0d4dd2794.svg",
+    "static/media/darkness-energy.png": "/static/media/darkness-energy.fd2c0b993031e41d54f9.png",
+    "static/media/shopping-bag2.svg": "/static/media/shopping-bag2.f2d422b5fd7c7d74171cc4f0a97164a6.svg",
+    "index.html": "/index.html",
+    "main.7c4f5f0c.css.map": "/static/css/main.7c4f5f0c.css.map",
+    "main.03b63b2d.js.map": "/static/js/main.03b63b2d.js.map",
+    "236.2aeae83e.chunk.js.map": "/static/js/236.2aeae83e.chunk.js.map",
+    "703.77337973.chunk.js.map": "/static/js/703.77337973.chunk.js.map",
+    "598.a2e56f2f.chunk.js.map": "/static/js/598.a2e56f2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c4f5f0c.css",
+    "static/js/main.03b63b2d.js"
+  ]
+}

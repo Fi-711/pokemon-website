@@ -1,0 +1,7 @@
+const DirectoryActionTypes = {
+  FETCH_CARD_SETS_START: 'FETCH_CARD_SETS_START',
+  FETCH_CARD_SETS_SUCCESS: 'FETCH_CARD_SETS_SUCCESS',
+  FETCH_CARD_SETS_FAILURE: 'FETCH_CARD_SETS_FAILURE',
+};
+
+export default DirectoryActionTypes;

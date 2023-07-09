@@ -1,0 +1,32 @@
+html,
+body {
+  scrollbar-color: #ffcb05 rgb(61, 59, 59);
+  font-family: 'Open Sans Condensed';
+  height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgb(61, 59, 59);
+  border-radius: 2px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #ffcb05;
+  border-radius: 2px;
+}
