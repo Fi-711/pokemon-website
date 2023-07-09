@@ -4,7 +4,7 @@
 
 ## Created with React, Chakra-UI, SCSS, Flask and MySQL
 
-http://pokemon-cards-shop.apps.cs.cf.ac.uk/
+https://pokemon-cards-sps3.onrender.com/
 
 ## Installation - Windows
 
