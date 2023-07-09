@@ -24,6 +24,7 @@ marshmallow-sqlalchemy==0.25.0
 passlib==1.7.4
 pendulum==2.1.2
 pokemontcgsdk==3.1.0
+psycopg2==2.9.6
 py-buzz==1.0.3
 PyJWT==2.1.0
 PyMySQL==1.0.2
