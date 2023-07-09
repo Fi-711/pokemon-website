@@ -8,19 +8,6 @@ import simplejson as json
 import re
 import stripe
 
-"""
-Use to make admin - testing only: Run the following from root i.e. same place as wsgi.py:
-from api import db, guard
-from api.models import User
-db.session.add(User(first_name="Nafis", last_name="Ahmed", email="fi.ahmed@icloud.com", email_validated=True, password=guard.hash_password("pokemon"), roles="admin", is_active=True))
-db.session.commit()
-
-
-from api.models import Cards, SetPreview, User, Review, Cart, Wishlist, Purchases, Inventory, CardSets, CardStatus, CardRarity, Artist, RetreatCost, CardTypes, PokemonTypes, Abilities, Attacks, AttackCost, Weaknesses, Resistances, SetPreview
-db.create_all()
-db.session.execute("SELECT 1")
-"""
-
 
 @app.errorhandler(404)
 def not_found(e):

@@ -258,5 +258,6 @@ yarn-error.log*
 
 pokemon_sets.txt
 pokemon_db.py
+setup.txt
 
 package-lock.json
